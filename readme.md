@@ -1,6 +1,6 @@
 # Welcome
 
-Hello there! 👋 This repository serves as a collection of various projects that I've been working on. Each project may have its own unique purpose, technology stack, and interesting features.
+Hello there! 👋 This repository serves as a collection of various projects that I've been working on.
 
 Feel free to explore the projects listed below and check out their respective documentation and demos.
 
@@ -35,6 +35,4 @@ Wave goodbye to PDF passwords with just a single line of magic in your command p
 Unleash the power of PDF merging without limits! Unlike most online PDF mergers, this one breaks free from constraints. Merge as many PDFs as you want!
 
 ## Univariate Time Series
-
-### Overview
 Embark on a journey into the world of time series forecasting for academic exploration! Dive into the fascinating realm of univariate time series analysis, turning data into valuable insights for your research endeavors. Let the exploration begin! 🚀
