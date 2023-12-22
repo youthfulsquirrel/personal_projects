@@ -28,6 +28,18 @@ Convo2Calendar is a Language Model (LLM) tool designed to transform meeting audi
 3. **Processing:** Utilize LangChain and OpenAI API to process the audio, extract key information, and generate formatted meeting notes.
 4. **Download:** Download the formatted Microsoft Word document containing your meeting notes.
 
-#### Preview
 
-[![Watch the Preview](https://img.youtube.com/vi/4FTK6IbwpZ8/maxresdefault.jpg)](https://www.youtube.com/watch?v=4FTK6IbwpZ8)
+## Remove PDF Password
+
+#### Overview
+Removes PDF password with 1 line of code on command prompt
+
+## Merge PDFs
+
+#### Overview
+Most online PDF merger has a limit to the number of pdf files. This doesn't!
+
+## Univariate Time Series
+
+#### Overview
+Explore time series forecasting for academic research
